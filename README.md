@@ -4,4 +4,4 @@ This project contains scripts related to statistical simulation.
 
 ## src  
 * [x] basics  
-* [ ] ... 
+* [x] bootstrapping  
