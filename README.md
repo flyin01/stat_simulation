@@ -9,4 +9,4 @@ This project contains scripts related to statistical simulation and other concep
 * [x] create_simulated_data
 * [x] latexify
 * [x] price_elasticity  
-* [ ] price_optimization
+* [x] price_optimization
